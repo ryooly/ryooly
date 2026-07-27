@@ -1,5 +1,26 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B00,100:00FF41&height=200&section=header&text=RYOOLY.SYS&fontColor=00FF41&fontSize=55&fontAlignY=38&animation=fadeIn&desc=%3E%3E%20CYBORG%20MODE%20ACTIVATED&descAlignY=58&descSize=18" width="100%"/>
+
+<!--
+  🔧 SLOT FOTO CYBORG:
+  Upload foto cyborg kamu (AI-generated / stock berlisensi) ke folder assets/ di repo ini,
+  lalu ganti src di bawah dengan path-nya, contoh:
+  <img src="https://raw.githubusercontent.com/ryooly/ryooly/main/assets/cyborg.png" width="260"/>
+-->
+<img src="https://raw.githubusercontent.com/ryooly/ryooly/main/assets/cyborg.png" width="260" alt="cyborg avatar placeholder — ganti dengan foto kamu"/>
+
+```
+     ╔═══════════════════════════╗
+     ║  ┌─────────────────────┐  ║
+     ║  │  ◉  S Y S T E M  ◉  │  ║
+     ║  │   [■■■■■■■■□□] 80%   │  ║
+     ║  │   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │  ║
+     ║  │   RYO.EXE — ONLINE   │  ║
+     ║  └─────────────────────┘  ║
+     ╚═══════════════════════════╝
+```
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3D+Ryo+Ardiansyah;role+%3D+%22Backend+Engineer%22;focus+%3D+%22AI+Integration%22;status+%3D+%22compiling+the+future...%22" alt="Typing SVG" />
 
 </div>
@@ -51,13 +72,21 @@ STATUS="Building fullstack foundations -> transitioning to AI Agentic systems"
 **AI / Integration**
 <br>
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Anthropic_API-000000?style=for-the-badge&logo=anthropic&logoColor=00FF41" />
+
+**Vibe Coding Tools**
+<br>
 <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=00FF41" />
 
-**Infra & Tools**
+**Core Tools**
 <br>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=00FF41" />
 
 </div>
 
@@ -89,11 +118,11 @@ ryo@backend:~$ cat roadmap.log
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
+| Project          | Description                 | Stack                           |
+| ---------------- | --------------------------- | ------------------------------- |
 | 🔧 _coming soon_ | _Deskripsi singkat project_ | `Python` `FastAPI` `PostgreSQL` |
-| 🔧 _coming soon_ | _Deskripsi singkat project_ | `Node.js` `Express` `MongoDB` |
-| 🔧 _coming soon_ | _Deskripsi singkat project_ | `AI Agent` `Claude API` |
+| 🔧 _coming soon_ | _Deskripsi singkat project_ | `Node.js` `Express` `MongoDB`   |
+| 🔧 _coming soon_ | _Deskripsi singkat project_ | `AI Agent` `Claude API`         |
 
 </div>
 
@@ -143,10 +172,12 @@ ryo@backend:~$ cat roadmap.log
 <div align="center">
 
 ```
-> end_of_file
+> shutting down cyborg.exe...
 > connection closed by ryooly
 ```
 
 <img src="https://komarev.com/ghpvc/?username=ryooly&color=00FF41&style=flat-square&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
