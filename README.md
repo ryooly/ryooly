@@ -1,8 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=RYO&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineering%20%26%20AI%20Integration&descAlignY=58&descSize=20&animation=fadeIn" />
+```
+██████╗ ██╗   ██╗ ██████╗
+██╔══██╗╚██╗ ██╔╝██╔═══██╗
+██████╔╝ ╚████╔╝ ██║   ██║
+██╔══██╗  ╚██╔╝  ██║   ██║
+██║  ██║   ██║   ╚██████╔╝
+╚═╝  ╚═╝   ╚═╝    ╚═════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ryo+Ardiansyah;Backend+Engineer+%7C+AI+Integration+Specialist;Currently+leveling+up%3A+Fullstack+%E2%86%92+Agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+AI+Integration+Specialist;Fullstack+today%2C+Agentic+AI+next" alt="Typing SVG" />
 
 <br>
 
@@ -20,13 +27,13 @@
 
 <br>
 
-## 👋 About Me
+## About Me
 
-I'm a **Backend Engineer** focused on building scalable systems and integrating AI into real-world products. Right now I'm strengthening my **fullstack foundations** while progressively transitioning into **AI Agentic Engineering** — combining my existing AI integration and Python backend experience as the bridge.
+Backend Engineer focused on scalable systems and real world AI integration. Building strong fullstack fundamentals now, transitioning into AI Agentic Engineering next.
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -58,27 +65,29 @@ I'm a **Backend Engineer** focused on building scalable systems and integrating 
 
 <br>
 
-## 🚀 Roadmap
-
-<table align="center">
-<tr>
-<td align="center">✅<br><b>Fullstack Fundamentals</b><br><sub>in progress</sub></td>
-<td align="center">⚙️</td>
-<td align="center">🏗️<br><b>Backend Architecture</b><br><sub>in progress</sub></td>
-<td align="center">⚙️</td>
-<td align="center">🤖<br><b>AI Agentic Engineering</b><br><sub>next up</sub></td>
-</tr>
-</table>
-
-Currently building strong fullstack fundamentals while continuously optimizing backend architecture — design patterns, scalability, clean architecture — as the foundation for moving into **AI Agentic Engineering**, leveraging existing knowledge in AI integration and Python backend development.
-
-<br>
-
-## 📌 Featured Projects
+## Roadmap
 
 <div align="center">
 
-<i>Coming soon — projects are being prepared 🚧</i>
+<img src="https://img.shields.io/badge/1.%20Fullstack%20Fundamentals-In%20Progress-6C63FF?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/2.%20Backend%20Architecture%20Optimization-In%20Progress-00C9A7?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/3.%20AI%20Agentic%20Engineering-Next%20Up-9E9E9E?style=for-the-badge" />
+
+</div>
+
+<br>
+
+Currently sharpening fullstack fundamentals and refining backend architecture (clean design, scalability). Next step is AI Agentic Engineering, building on existing AI integration and Python backend experience.
+
+<br>
+
+## Featured Projects
+
+<div align="center">
+
+<i>Coming soon, projects are being prepared</i>
 
 <!--
 Template for later:
@@ -91,7 +100,7 @@ Short description of the project, tech used, and impact.
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -107,5 +116,5 @@ Short description of the project, tech used, and impact.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=100&section=footer" />
 
 <div align="center">
-<i>Open to collaboration on backend engineering & AI integration projects 🚀</i>
+<i>Open to collaboration on backend engineering and AI integration projects</i>
 </div>
