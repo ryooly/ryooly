@@ -1,0 +1,1 @@
+![profile information](./Cuplikan%20layar%202026-08-31%20112326.png)
