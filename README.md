@@ -1,1 +1,1 @@
-![Profile Infromation](./Cuplikan%20layar%202026-08-31%20113418.png)
+![Profile Infromation](./preview.webp)
