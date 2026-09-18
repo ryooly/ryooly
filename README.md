@@ -1,11 +1,7 @@
-
-
 <h1 align="center">Satrio Ardiansyah</h1>
 
 <p align="center">
-  <strong>Backend Engineering · AI Integration</strong><br />
-  I design server-side systems that stay reliable under load — and wire
-  LLMs into production software where they actually earn their place.
+  <strong>Backend engineer · AI integration</strong>
 </p>
 
 <p align="center">
@@ -22,21 +18,24 @@
 
 ## `whoami`
 
-Backend engineer working at the intersection of **solid server-side craft** and
-**applied AI**. Day to day, that means clean API design with FastAPI and Node.js,
-data modeling done properly across PostgreSQL, MongoDB, and MySQL, and shipping
-OpenAI- and Claude-powered features that hold up in production — not just in demos.
+Backend engineer, based in Southeast Asia. Most of what I do is server-side:
+APIs in FastAPI and Node.js, database schemas that don't fall over, Docker
+on Linux.
 
-Comfortable owning the whole path: containerized with Docker, versioned with Git,
-running on Linux. And when a product needs a face, I build it with Vue.js or Next.js.
+Lately a growing chunk of that is AI integration: wiring OpenAI and Claude
+into real products, not toy demos. Currently down the agent-engineering
+rabbit hole.
+
+I can do frontend (Vue, Next.js) when a project needs it, but I'm happiest
+a few layers below the UI.
 
 ## `what_i_do`
 
-| Focus                   | What it looks like in practice                                                                                                          |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **Backend Engineering** | REST APIs with FastAPI and Node.js; schema and query design across PostgreSQL, MongoDB, and MySQL; Dockerized services running on Linux |
-| **AI Integration**      | OpenAI and Anthropic Claude models embedded into real product features; agent-style workflows; AI-assisted development with Cursor      |
-| **Full-Stack Fluency**  | Vue.js and Next.js frontends when the product calls for them — always in service of the system, never the other way around              |
+| Area                      | What I actually do                                                                            |
+| ------------------------- | --------------------------------------------------------------------------------------------- |
+| **Backend**               | APIs with FastAPI and Node.js; schema design on PostgreSQL, MongoDB, MySQL; Docker on Linux   |
+| **AI integration**        | Wiring OpenAI and Claude into product features; agent workflows; Cursor for day-to-day coding |
+| **Frontend, when needed** | Vue.js and Next.js (mostly product UIs and internal tools)                                    |
 
 ## `tech_stack`
 
@@ -85,16 +84,14 @@ running on Linux. And when a product needs a face, I build it with Vue.js or Nex
 ## `current_status`
 
 ```console
-satrio@ryooly:~$ cat ./status.json
+satrio@ryooly:~$ cat status.json
 {
-  "building":     "Sprinkle — a TypeScript project",
-  "learning":     "AI Agents Engineering",
-  "location":     "Southeast Asia",
-  "off_keyboard": ["DIY robotics", "building innovative projects"]
+  "building": "Sprinkle (TypeScript)",
+  "learning": "AI agent engineering",
+  "location": "Southeast Asia",
+  "away_from_keyboard": ["DIY robotics", "side projects"]
 }
 ```
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satrio-ardiansyah-879aa93ab/">LinkedIn</a>
@@ -102,6 +99,4 @@ satrio@ryooly:~$ cat ./status.json
   <a href="https://x.com/ryollie">X</a>
   ·
   <a href="mailto:ryyoardiansyah@gmail.com">ryyoardiansyah@gmail.com</a>
-  <br />
-  <sub>Thanks for stopping by.</sub>
 </p>
