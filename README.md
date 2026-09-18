@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./profile-card.png" width="100%" alt="Satrio Ardiansyah — terminal-style profile card" />
-</p>
+
 
 <h1 align="center">Satrio Ardiansyah</h1>
 
